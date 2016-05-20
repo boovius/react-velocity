@@ -1,10 +1,10 @@
 {
-  "name": "react-webpack-babel-hmre-boilerplate",
+  "name": "react velocity",
   "version": "1.0.0",
-  "description": "a boilerplate for react, webpack, babel, es2015, mocha, and hot mod replacement",
+  "description": "a spike on working with velocityjs animations library with react",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/boovius/react-webpack-babel-hmre-boilerplate.git"
+    "url": "git+ssh://git@github.com/boovius/react-velocity.git"
   },
   "main": "index.js",
   "dependencies": {
@@ -33,13 +33,7 @@
   },
   "keywords": [
     "react",
-    "webpack",
-    "babel",
-    "es2015",
-    "hot module replacement",
-    "mocha",
-    "express",
-    "boilerplate"
+    "velocityjs"
   ],
   "author": "boovius",
   "license": "ISC"
