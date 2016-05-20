@@ -9,7 +9,9 @@
   "main": "index.js",
   "dependencies": {
     "react": "^15.0.2",
-    "react-dom": "^15.0.2"
+    "react-dom": "^15.0.2",
+    "velocity-animate": "^1.2.3",
+    "velocity-react": "^1.1.5"
   },
   "devDependencies": {
     "babel-core": "^6.9.0",
